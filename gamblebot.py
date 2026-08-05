@@ -419,4 +419,4 @@ async def givecoins(interaction: discord.Interaction, member: discord.Member, am
 
 
 # Securely run bot using Render's environment variable
-bot.run(os.getenv("MTUzNDQwNDk4NjUxMzkyMDA1MA.GEjkEu.8HU9ZFN7XoiX7-pCWt3oepjKJMudfMkF-WBj4c"))
+bot.run(os.getenv("DISCORD_TOKEN"))
