@@ -31,7 +31,7 @@ CO_OWNER_IDS = [
 
 # Put your designated gambling channel ID here!
 # (Right-click your specific channel in Discord -> Copy Channel ID)
-GAMBLE_CHANNEL_ID = 
+GAMBLE_CHANNEL_ID = 1534410918291832952
 
 
 def is_owner_or_co_owner(user_id):
